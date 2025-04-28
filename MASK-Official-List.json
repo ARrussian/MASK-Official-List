@@ -1,0 +1,25 @@
+{
+  "name": "MASK Official Token List",
+  "logoURI": "https://yourdomain.com/logo.png",
+  "keywords": [
+    "mask",
+    "token",
+    "defi"
+  ],
+  "timestamp": "2024-04-27T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x55834233Dc6756d1c0a8d564d2e0a2d387d5d670",
+      "name": "MASK",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "https://yourdomain.com/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
